@@ -1,4 +1,4 @@
-<html>
+<?php
     <head>
         <title>Hello world</title>
     </head>
@@ -17,4 +17,4 @@
         </ul>
 
     </body>
-</html>
+?>
