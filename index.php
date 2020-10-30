@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
     </head>
     <body>
-        <h1>My นาย ณภัทร อังธนากุล นุ๊ก </h1>
+        <h1>นาย ณภัทร อังธนากุล ชื่อเล่น นุ๊ก </h1>
         <p>My First Paragraph</p>
         <img src="cat.jpg">
         <img src="cat2.jpg">
